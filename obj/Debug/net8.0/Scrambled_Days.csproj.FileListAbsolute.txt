@@ -27,3 +27,4 @@
 /home/galen/Scrambled_Days/obj/Debug/net8.0/Scrambled_Days.pdb
 /home/galen/Scrambled_Days/obj/Debug/net8.0/Scrambled_Days.genruntimeconfig.cache
 /home/galen/Scrambled_Days/obj/Debug/net8.0/ref/Scrambled_Days.dll
+/home/galen/Scrambled_Days/obj/Debug/net8.0/Scrambled_Days.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scrambled_Days")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb58caf4f0e368c6fdc7681f7e81a0e35a8f19d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scrambled_Days")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scrambled_Days")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
