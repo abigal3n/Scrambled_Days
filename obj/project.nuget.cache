@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "obKzcpVEQFwOrTv24lv5x78tFk5/8JFI1CiKH81ls8cdVkQbTwrfAuPwJGko7xQtZClq9tlSxL5Homw0JnA+kg==",
+  "success": true,
+  "projectFilePath": "/home/galen/Scrambled_Days/Scrambled_Days.csproj",
+  "expectedPackageFiles": [
+    "/home/galen/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
